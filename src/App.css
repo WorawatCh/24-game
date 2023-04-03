@@ -68,3 +68,19 @@ h1, h2, h3, h4, h5, h6 {
     color: #049ff6 !important;
     border-color: #049ff6 !important;
 }
+.modal-content{
+  background-color: #049ff6 !important;
+  border-color: #fff !important;
+}
+.modal-title{ 
+  align-items: center !important;
+}
+.modal-body p{
+  line-height: 30px !important;
+}
+.modal-header {
+  border-bottom: none !important;
+}
+.modal-footer {
+  border-top: none !important;
+}

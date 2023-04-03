@@ -38,7 +38,7 @@ export const Number = () => {
     }
   return (
     <section className='number text-center' id='number'>
-        <Container className='number-containter text-center'>
+        <Container className='number-containter text-center mb-3'>
             <Row>
                 <Col className='num' md={3} sm={6}>
                     <h2>{printNumber[0]}</h2>
